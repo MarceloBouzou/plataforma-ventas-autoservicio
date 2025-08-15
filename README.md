@@ -1,6 +1,6 @@
 # Caso de Estudio: Plataforma de Ventas de Autoservicio (B2B)
 
-## 概要 (Resumen del Proyecto)
+## (Resumen del Proyecto)
 
 Este repositorio documenta el diseño, la arquitectura y el impacto de una aplicación de escritorio desarrollada en Python (Tkinter) que funciona como un **canal de ventas de autoservicio para clientes B2B**. La herramienta fue creada desde cero para delegar estratégicamente el trabajo de presupuestar a los propios clientes, liberando a la fuerza de ventas para que se enfoque en cuentas de mayor valor.
 
